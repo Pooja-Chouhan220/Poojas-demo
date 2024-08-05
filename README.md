@@ -1,2 +1,2 @@
-# Poojas-demo
+# Poojas-
 This is my first Git repository.
